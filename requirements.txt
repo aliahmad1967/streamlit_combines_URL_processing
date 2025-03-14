@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+langchain
+openai
+python-dotenv
+faiss-cpu
+arabic-reshaper
+python-bidi
+googletrans==4.0.0-rc1
